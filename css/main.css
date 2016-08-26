@@ -1,0 +1,55 @@
+.pasto{
+	width: 900px;
+	height: 500px;
+	background-color: #8cb27c;
+	position: relative;
+}
+.lineas{
+	position: absolute;
+	margin: 0;
+	top:19px;
+	left: 19px;
+	height: 460px;
+	width: 860px;
+	border: 1px white solid;
+}
+.arco{
+	margin:0;
+	border: 1px white solid;
+	width: 115px;
+	height: 195px;
+}
+.circulo{
+	width: 200px;
+	height: 200px;
+	border: 1px white solid;
+	border-radius: 125px;
+	position: absolute;
+	top:120px;
+	left: 330px;
+}
+.izq{
+	position: absolute;
+	left: -1px;
+	top: 120px;
+}
+.der{
+	position: absolute;
+	right: -1px;
+	top: 120px;
+}
+.bola1{
+	position: absolute;
+	top: 124px;
+	left: 103px;
+}
+.bola2{
+	position: absolute;
+	top: 50px;
+	right: 400px;
+}
+.bola3{
+	position: absolute;
+	bottom: 150px;
+	right: 120px;
+}
